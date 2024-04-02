@@ -17,3 +17,6 @@ Buttons, drill through , bookmark
 
 𝗪𝗵𝗮𝘁 𝗮𝗿𝗲 𝘄𝗲 𝗴𝗼𝗶𝗻𝗴 𝘁𝗼 𝗮𝗰𝗵𝗶𝗲𝘃𝗲 ?
 After consuming the dashboard by the business user they can take data driven decisions and strategical actions which includes marketing initiatives , Inventory optimization , resulting in 20% increase in sales and 10% increase in profit .
+
+
+Project Presentation Video : https://www.linkedin.com/posts/karan-chadha-a7459b140_dataanalysis-dataanalyst-dataanalytics-activity-7180862533254230016-wTg1?utm_source=share&utm_medium=member_desktop
